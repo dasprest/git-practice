@@ -3,3 +3,4 @@
 Github上で更新(Conflict)
 stash-update
 stash-practise
+stash save 2nd
